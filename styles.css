@@ -145,7 +145,7 @@ body {
     padding: 1vw;
     display: none;
     flex-wrap: wrap;
-    width: 40vw;
+    width: 79vw;
 }
 
 #main:target ~ .buttons > [href="#main"],
