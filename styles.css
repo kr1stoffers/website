@@ -68,9 +68,9 @@ fieldset > legend ~ label {
     color: #29263a;
 }
 
-.css {
+/* .css {
     justify-content: center;
-}
+} */
 
 #ex-2 {
     height: 35em;
@@ -94,6 +94,7 @@ table {
 td {
     border: 1px solid;
     height: 30px;
+    padding: 0 5px 0 5px;
 }
 
 /* * {
@@ -210,5 +211,10 @@ footer {
 
 .css {
     font-family: "Times New Roman", Times, serif;
+    /* justify-content: baseline; */
+    flex-direction: row;
     color: #191724;
+    background-color: #ffffff;
+    width: 35em;
+    font-size: large;
 }
